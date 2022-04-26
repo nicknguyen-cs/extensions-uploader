@@ -1,0 +1,14 @@
+{
+  "extension": "widget",
+  "scope": ["$all"],
+  "buildFolder": "/path/to/extension/build",
+  "buildLog": "/path/to/extension/build.log",
+  "name": "Custom Sidebar Widget Extension",
+  "assetsFolder": "bltae347274c7efcadd",
+  "verbose": false,
+  "purge": true,
+  "config": {
+    "parameterA": "Value A",
+    "parameterB": "Value B"
+  }
+}
